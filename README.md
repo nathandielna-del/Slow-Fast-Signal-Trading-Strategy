@@ -4,7 +4,7 @@ This repository contains Python scripts developed during a Coursera course to ex
 
 ---
 
-## 🚀 Strategy 1: Moving Average Crossover
+##  Strategy 1: Moving Average Crossover
 
 This project is a Python script that tests a stock buying and selling strategy based on moving averages. It is an intentionally basic approach that serves primarily as a practical case study for learning how to manipulate time series, rather than a trading tool to be used with real capital.
 
@@ -25,7 +25,7 @@ The decision rule is simple:
 
 ---
 
-## 🚀 Strategy 2: Vectorized Multiple Regression Backtesting Engine
+##  Strategy 2: Vectorized Multiple Regression Backtesting Engine
 
 ### Overview
 An advanced, end-to-end quantitative backtesting pipeline built to predict the SPDR S&P 500 ETF Trust (SPY) movements using global market indices. This model transitions from simple moving averages to statistical machine learning (OLS Regression).
@@ -41,7 +41,7 @@ The backtester successfully simulates trading execution and compares the signal-
 
 ---
 
-## ⚙️ How to test the code
+##  How to test the code
 
 If you want to run the scripts on your local machine:
 1. Make sure you have installed the required libraries. You can do this with: `pip install pandas numpy yfinance matplotlib statsmodels`
